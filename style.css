@@ -87,7 +87,6 @@ header{
   margin: 0;
   letter-spacing: 2px;
   line-height: 1.2;
-  height: 450px;
 }
 
 @media all and (min-width:768px) {
