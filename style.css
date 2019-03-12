@@ -78,14 +78,16 @@ header{
 }
 
 .herop{
-    font-size: 30px;
-    color: #fff;
-    font-weight: 700;
-    max-width: 230px;
-    text-transform: capitalize;
-    text-align: center;
-    margin: 0;
-    line-height: 1.2;
+  font-size: 30px;
+  color: #fff;
+  font-weight: 700;
+  max-width: 250px;
+  text-transform: capitalize;
+  text-align: center;
+  margin: 0;
+  letter-spacing: 2px;
+  line-height: 1.2;
+  height: 450px;
 }
 
 @media all and (min-width:768px) {
