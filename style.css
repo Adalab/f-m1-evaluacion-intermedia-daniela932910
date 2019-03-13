@@ -17,9 +17,8 @@ body{
 header{
     background-color: #fff;
   text-align: center;
-  position: fixed;
+  position: fixxed;
   width: 100%;
-  height: 100px;
 }
 
 .content{
@@ -30,6 +29,7 @@ header{
     display: inline-block;
     width: 155px;
     height: 61px;
+    margin: 10px;
 }
 
 .ulnav{
