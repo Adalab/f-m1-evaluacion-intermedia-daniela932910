@@ -9,6 +9,9 @@ body{
   line-height: 1.4;
   min-height: 100vh;
   font-family: 'Rubik', sans-serif;
+  display: flex;
+  flex-direction: column;
+  
 
 }
 
@@ -17,7 +20,7 @@ body{
 .pageheader{
   background-color: #fff;
   text-align: center;
-  position: fixted;
+  position: fixed;
   width: 100%;
 }
 
@@ -79,8 +82,8 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 400px;
-  
+  height: 100vh;
+ 
 }
 
 .herop{
@@ -92,7 +95,6 @@ body{
   margin: 0;
   letter-spacing: 1px;
   line-height: 1.2;
-  align-self:center;  
 }
 
 @media all and (min-width:768px) {
